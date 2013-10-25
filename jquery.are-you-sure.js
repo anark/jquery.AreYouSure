@@ -18,7 +18,7 @@
             'dirtyClass' : 'dirty',
             'change' : null,
             'silent' : false,
-            'fieldSelector' : "select,textarea,input[type='text'],input[type='password'],input[type='checkbox'],input[type='radio'],input[type='hidden']"
+            'fieldSelector' : "select,textarea,input[type='text'],input[type='password'],input[type='checkbox'],input[type='radio'],input[type='hidden'],input[type='url']"
           }, options);
 
     var getValue = function($field) {
